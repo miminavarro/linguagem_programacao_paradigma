@@ -26,7 +26,6 @@ Web: PHP, Ruby, Javascript, Java, etc.<br>
 Linguagens compiladas: C, C++, Pascal, D, GO, etc.<br>
 Linguagens Interpretadas: Python, Ruby, PHP, Javascript, etc.<br>
 Linguagens Hibridas: Java, Erlang, Elixir, etc.<br>
-<br>
 
 <h2>Contribuições</h2>
 ✍🏻 O código foi descrito à partir do exemplo citado acima pela DIO, referente a classificação de algumas linguagens de programação. Tentando respeitar o conceito de POO.
